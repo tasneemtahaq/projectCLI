@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# NiceGUI specific
+.storage/
+*.db
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python environment
+*.egg-info/
+*.egg
+*.log
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Local environment overrides
+.env
+*.env
